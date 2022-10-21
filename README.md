@@ -1,4 +1,4 @@
-# stock-analysis
+# Limited Stock Market Analysis
 Performing analysis on stock market sample data.
 
 ## Overview of Project
